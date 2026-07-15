@@ -42,9 +42,6 @@ Currently focused on building production-oriented AI applications using Large La
 - Matplotlib
 
 ### Web
-- React
-- Node.js
-- MongoDB
 - Flask
 - Streamlit
 

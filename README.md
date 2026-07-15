@@ -96,4 +96,4 @@ Build AI applications that solve real-world business problems while continuously
 ## 🤝 Let's Connect
 
 - LinkedIn: (Add after LinkedIn optimization)
-- Email: your-email@example.com
+- Email: dgchaudhari7250@gmail.com

@@ -11,7 +11,7 @@ Currently focused on building production-oriented AI applications using Large La
 ## 🚀 Current Focus
 
 - Building Enterprise AI Applications 
-- Large Language Models (LLMs) 
+- Large Language Models (LLMs)  
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI & Multi-Agent Systems
 - Computer Vision with OpenCV 

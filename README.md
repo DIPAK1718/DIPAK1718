@@ -13,7 +13,7 @@ Currently focused on building production-oriented AI applications using Large La
 - Building Enterprise AI Applications 
 - Large Language Models (LLMs)  
 - Retrieval-Augmented Generation (RAG) 
-- Agentic AI & Multi-Agent Systems
+- Agentic AI & Multi-Agent Systems 
 - Computer Vision with OpenCV  
 - Deep Learning using PyTorch
 

@@ -8,7 +8,7 @@ Currently focused on building production-oriented AI applications using Large La
    
 ---  
      
-## 🚀 Current Focus   
+## 🚀 Current Focus    
   
 - Building Enterprise AI Applications 
 - Large Language Models (LLMs)  

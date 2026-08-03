@@ -21,7 +21,7 @@ Currently focused on building production-oriented AI applications using Large La
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages 
 - Python
 - SQL
 - JavaScript

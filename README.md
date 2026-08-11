@@ -1,5 +1,5 @@
 # Hi there, I'm Dipak Chaudhari 👋
- 
+  
 ## Machine Learning & Generative AI Developer
  
 I build intelligent AI systems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.

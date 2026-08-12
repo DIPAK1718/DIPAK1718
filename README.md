@@ -3,7 +3,7 @@
 ## Machine Learning & Generative AI Developer 
    
 I build intelligent AI systems using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
-  
+   
 Currently focused on building production-oriented AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI. 
     
 ---  

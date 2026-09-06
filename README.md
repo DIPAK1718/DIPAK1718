@@ -17,7 +17,7 @@ Currently focused on building production-oriented AI applications using Large La
 - Computer Vision with OpenCV         
 - Deep Learning using PyTorch
  
----
+--- 
 
 ## 🛠️ Tech Stack
 

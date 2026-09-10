@@ -1,4 +1,4 @@
-# Hi there, I'm Dipak Chaudhari 👋
+# Hi there, I'm Dipak Chaudhari 👋 
     
 ## Machine Learning & Generative AI Developer   
      

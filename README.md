@@ -15,7 +15,7 @@ Currently focused on building production-oriented AI applications using Large La
 - Retrieval-Augmented Generation (RAG)   
 - Agentic AI & Multi-Agent Systems  
 - Computer Vision with OpenCV         
-- Deep Learning using PyTorch
+- Deep Learning using PyTorch 
  
 --- 
 

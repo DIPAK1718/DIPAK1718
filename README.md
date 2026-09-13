@@ -92,5 +92,7 @@ Build AI applications that solve real-world business problems while continuously
 
 ## 🤝 Let's Connect
  
-- LinkedIn: (Add after LinkedIn optimization)
+- LinkedIn: www.linkedin.com/in/
+dipak-chaudhari-ai
+
 - Email: dgchaudhari7250@gmail.com
